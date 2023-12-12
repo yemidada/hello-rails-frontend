@@ -24,9 +24,9 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖hello-react-front-end <a name="about-project"></a>
+# 📖hello-react-front <a name="about-project"></a>
 
-**hello-react-front-end** Is a React app that consumes an API endpoint from [hello-rails-backend](https://github.com/noelfoka/hello-rails-backend) Rails app and renders the received data in the browser.
+**hello-react-front** Is a React app that consumes an API endpoint from [hello-rails-backend](https://github.com/noelfoka/hello-rails-backend) Rails app and renders the received data in the browser.
 
 ## 🛠 Built With <a name="built-with"></a>
 
